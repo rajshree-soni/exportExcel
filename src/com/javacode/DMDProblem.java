@@ -40,6 +40,7 @@ class Problem2 extends DMDProblem {
 	public void third()
 	{
 		System.out.println("child Third ");
+		System.out.println("testing");
 	}
 
 	
